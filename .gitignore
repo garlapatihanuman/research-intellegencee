@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+vectorstore/
+data/papers/*
+data/images/*
+data/processed/*
+!data/papers/.gitkeep
+!data/images/.gitkeep
+!data/processed/.gitkeep
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.DS_Store
