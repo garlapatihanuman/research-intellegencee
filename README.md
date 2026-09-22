@@ -1,5 +1,7 @@
 # AI Research Paper Intelligence & Multimodal Analysis System
 
+![GitHub Token Setup](github_token.png)
+
 A production-oriented, modular research assistant that lets you upload one or
 more research papers (PDF) and ask questions about them — single-paper
 Q&A, cross-paper comparison, figure/table understanding, and tool-assisted
